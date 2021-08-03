@@ -1,0 +1,9 @@
+id,name,email,phone,is_active
+"","xyz","xx@gmail.com","9999999999",1
+"b33b8b10-f5b3-4245-9c76-bdc63695c1d6","xyz","xx@gmail.com","8888888888",""
+"b33b8b10-f5b3-4245-9c76-bdc63695c1d6","xyz","xx@gmail.com","9999999999",1
+"9d6b6bc7-f3fa-43cc-9006-1cdeeb993f7c","","xx@gmail.com","9999999999",1
+"e690607e-a19f-45aa-a49a-2d404acef8ff","xyz","","9999999999",1
+"4bd98478-7781-419b-a07a-026950ebca75","xyz","","9999999999",0
+"9i6b6bc7-p3la-43cc-9006-1cdeeb993f7c","","xx@gmail.com","9999999999",1
+
